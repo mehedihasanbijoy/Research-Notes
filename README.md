@@ -16,6 +16,23 @@
 
 </br>
 
+# Resources
+
+<details><summary>Natural Language Processing</summary>
+
+* [Tutorials on implementing different NLP models and tasks with PyTorch and TorchText by Ben Trevett](https://github.com/bentrevett)
+
+</details>
+
+
+<details><summary>Computer Vision</summary>
+
+* [Machine-Learning-Collection by Aladdin Persson](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch)
+
+</details>
+
+</br>
+
 # Others' Notes
 <ul>
     <li><a href="https://github.com/hassony2/useful-computer-vision-phd-resources" target="_blank">
