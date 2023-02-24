@@ -9,8 +9,12 @@
 
 # Writing
 <ul>
+    <li><a href="https://github.com/mehedihasanbijoy/Research-Notes/blob/main/segmentation%20of%20a%20paper.jpg" target="_blank">Segmentation of a Paper</a></li>
+    <!--- --->
     <li><a href="https://github.com/mehedihasanbijoy/Research-Notes/blob/main/Thirteen%20Ways%20to%20Write%20an%20Abstract.pdf" target="_blank">Thirteen Ways to Write an Abstract</a></li>
+    <!--- --->
     <li><a href="https://github.com/mehedihasanbijoy/Research-Notes/blob/main/How%20to%20Write%20a%20Literature%20Review.pdf" target="_blank">How to Write a Literature Review?</a></li>
+    <!--- --->
     <!--- <li><a href="" target="_blank">Item</a></li> --->
 </ul>
 
