@@ -1,3 +1,13 @@
+# Guidelines
+
+<ul>
+    <li><a href="https://github.com/mehedihasanbijoy/Research-Notes/blob/main/How%20to%20Become%20a%20Successful%20Researcher.pdf" target="_blank">How to Become a Successful Researcher?</a></li>
+    <!--- <li><a href="" target="_blank">Item</a></li> --->
+</ul>
+
+</br>
+
+
 # Reading
 
 <ul>
