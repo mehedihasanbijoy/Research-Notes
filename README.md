@@ -47,11 +47,5 @@
 
 </br>
 
-<!---
-# Others' Notes
-<ul>
-    <li><a href="https://github.com/hassony2/useful-computer-vision-phd-resources" target="_blank">
-useful-computer-vision-phd-resources</a></li>
-    <!--- <li><a href="" target="_blank">Item</a></li> --->
-</ul>
---->
+
+<!--- <li><a href="" target="_blank">Item</a></li> --->
