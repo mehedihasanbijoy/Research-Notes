@@ -30,6 +30,16 @@
 
 </br>
 
+
+# Research Ideation
+
+<ul>
+    <li><a href="https://github.com/mehedihasanbijoy/Research-Notes/blob/main/Types%20of%20Research%20Gap%20by%20Jason.jpeg" target="_blank">Types of Research Gap by Jason</a></li>
+    <!--- <li><a href="" target="_blank">Item</a></li> --->
+</ul>
+
+</br>
+
 # Resources
 
 <details><summary>Natural Language Processing</summary>
@@ -39,7 +49,7 @@
 </details>
 
 
-<details><summary>Computer Vision</summary>
+<details><summary>Deep Learning</summary>
 
 * [Machine-Learning-Collection by Aladdin Persson](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch)
 
